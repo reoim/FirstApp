@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6D59D1F0199D91F50057093D /* BookInfoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6D59D1EF199D91F50057093D /* BookInfoViewController.m */; };
+		6D59D1F1199D91F50057093D /* BookInfoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6D59D1EF199D91F50057093D /* BookInfoViewController.m */; };
 		6DA9C769199C75B400EB2608 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6DA9C768199C75B400EB2608 /* Foundation.framework */; };
 		6DA9C76B199C75B400EB2608 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6DA9C76A199C75B400EB2608 /* CoreGraphics.framework */; };
 		6DA9C76D199C75B400EB2608 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6DA9C76C199C75B400EB2608 /* UIKit.framework */; };
@@ -22,6 +24,14 @@
 		6DA9C78D199C75B400EB2608 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6DA9C76C199C75B400EB2608 /* UIKit.framework */; };
 		6DA9C795199C75B400EB2608 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 6DA9C793199C75B400EB2608 /* InfoPlist.strings */; };
 		6DA9C797199C75B400EB2608 /* FirstAppTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6DA9C796199C75B400EB2608 /* FirstAppTests.m */; };
+		6DA9C7A2199C78FC00EB2608 /* PhenomenalBook.m in Sources */ = {isa = PBXBuildFile; fileRef = 6DA9C7A1199C78FC00EB2608 /* PhenomenalBook.m */; };
+		6DA9C7A3199C78FC00EB2608 /* PhenomenalBook.m in Sources */ = {isa = PBXBuildFile; fileRef = 6DA9C7A1199C78FC00EB2608 /* PhenomenalBook.m */; };
+		6DB2D21C19A4CBBE00E7EEAA /* firstbook.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 6DB2D21B19A4CBBE00E7EEAA /* firstbook.jpeg */; };
+		6DB2D21D19A4CBBE00E7EEAA /* firstbook.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 6DB2D21B19A4CBBE00E7EEAA /* firstbook.jpeg */; };
+		6DB2D21F19A4CBCF00E7EEAA /* secondbook.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 6DB2D21E19A4CBCF00E7EEAA /* secondbook.jpeg */; };
+		6DB2D22019A4CBCF00E7EEAA /* secondbook.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 6DB2D21E19A4CBCF00E7EEAA /* secondbook.jpeg */; };
+		6DB2D22319A5DA2C00E7EEAA /* NewBookViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6DB2D22219A5DA2C00E7EEAA /* NewBookViewController.m */; };
+		6DB2D22419A5DA2C00E7EEAA /* NewBookViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6DB2D22219A5DA2C00E7EEAA /* NewBookViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +45,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		6D59D1EE199D91F50057093D /* BookInfoViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BookInfoViewController.h; sourceTree = "<group>"; };
+		6D59D1EF199D91F50057093D /* BookInfoViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BookInfoViewController.m; sourceTree = "<group>"; };
 		6DA9C765199C75B400EB2608 /* FirstApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FirstApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6DA9C768199C75B400EB2608 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		6DA9C76A199C75B400EB2608 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -55,6 +67,12 @@
 		6DA9C792199C75B400EB2608 /* FirstAppTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "FirstAppTests-Info.plist"; sourceTree = "<group>"; };
 		6DA9C794199C75B400EB2608 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		6DA9C796199C75B400EB2608 /* FirstAppTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FirstAppTests.m; sourceTree = "<group>"; };
+		6DA9C7A0199C78FC00EB2608 /* PhenomenalBook.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PhenomenalBook.h; sourceTree = "<group>"; };
+		6DA9C7A1199C78FC00EB2608 /* PhenomenalBook.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PhenomenalBook.m; sourceTree = "<group>"; };
+		6DB2D21B19A4CBBE00E7EEAA /* firstbook.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = firstbook.jpeg; sourceTree = "<group>"; };
+		6DB2D21E19A4CBCF00E7EEAA /* secondbook.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = secondbook.jpeg; sourceTree = "<group>"; };
+		6DB2D22119A5DA2C00E7EEAA /* NewBookViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NewBookViewController.h; sourceTree = "<group>"; };
+		6DB2D22219A5DA2C00E7EEAA /* NewBookViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NewBookViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -117,10 +135,18 @@
 				6DA9C777199C75B400EB2608 /* AppDelegate.h */,
 				6DA9C778199C75B400EB2608 /* AppDelegate.m */,
 				6DA9C77A199C75B400EB2608 /* Main_iPhone.storyboard */,
+				6DB2D22119A5DA2C00E7EEAA /* NewBookViewController.h */,
+				6DB2D22219A5DA2C00E7EEAA /* NewBookViewController.m */,
+				6D59D1EE199D91F50057093D /* BookInfoViewController.h */,
+				6D59D1EF199D91F50057093D /* BookInfoViewController.m */,
 				6DA9C77D199C75B400EB2608 /* Main_iPad.storyboard */,
 				6DA9C780199C75B400EB2608 /* ViewController.h */,
 				6DA9C781199C75B400EB2608 /* ViewController.m */,
+				6DA9C7A0199C78FC00EB2608 /* PhenomenalBook.h */,
+				6DA9C7A1199C78FC00EB2608 /* PhenomenalBook.m */,
 				6DA9C783199C75B400EB2608 /* Images.xcassets */,
+				6DB2D21B19A4CBBE00E7EEAA /* firstbook.jpeg */,
+				6DB2D21E19A4CBCF00E7EEAA /* secondbook.jpeg */,
 				6DA9C76F199C75B400EB2608 /* Supporting Files */,
 			);
 			path = FirstApp;
@@ -231,6 +257,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6DB2D21F19A4CBCF00E7EEAA /* secondbook.jpeg in Resources */,
+				6DB2D21C19A4CBBE00E7EEAA /* firstbook.jpeg in Resources */,
 				6DA9C77F199C75B400EB2608 /* Main_iPad.storyboard in Resources */,
 				6DA9C784199C75B400EB2608 /* Images.xcassets in Resources */,
 				6DA9C77C199C75B400EB2608 /* Main_iPhone.storyboard in Resources */,
@@ -242,7 +270,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6DB2D22019A4CBCF00E7EEAA /* secondbook.jpeg in Resources */,
 				6DA9C795199C75B400EB2608 /* InfoPlist.strings in Resources */,
+				6DB2D21D19A4CBBE00E7EEAA /* firstbook.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -253,7 +283,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6DB2D22319A5DA2C00E7EEAA /* NewBookViewController.m in Sources */,
 				6DA9C782199C75B400EB2608 /* ViewController.m in Sources */,
+				6D59D1F0199D91F50057093D /* BookInfoViewController.m in Sources */,
+				6DA9C7A2199C78FC00EB2608 /* PhenomenalBook.m in Sources */,
 				6DA9C779199C75B400EB2608 /* AppDelegate.m in Sources */,
 				6DA9C775199C75B400EB2608 /* main.m in Sources */,
 			);
@@ -264,6 +297,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				6DA9C797199C75B400EB2608 /* FirstAppTests.m in Sources */,
+				6D59D1F1199D91F50057093D /* BookInfoViewController.m in Sources */,
+				6DB2D22419A5DA2C00E7EEAA /* NewBookViewController.m in Sources */,
+				6DA9C7A3199C78FC00EB2608 /* PhenomenalBook.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -470,6 +506,7 @@
 				6DA9C79C199C75B400EB2608 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		6DA9C79D199C75B400EB2608 /* Build configuration list for PBXNativeTarget "FirstAppTests" */ = {
 			isa = XCConfigurationList;
@@ -478,6 +515,7 @@
 				6DA9C79F199C75B400EB2608 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
